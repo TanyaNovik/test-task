@@ -1,0 +1,14 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Test for sign up form",
+  "scripts": {
+    "test": "protractor protractor-conf.js"
+  },
+  "author": "Tatsiana Novik",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0",
+    "protractor": "^5.4.3"
+  }
+}
